@@ -25,6 +25,7 @@ dependencies {
 	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 	implementation("org.springframework.cloud:spring-cloud-starter-consul-config")
 	implementation("org.springframework.cloud:spring-cloud-starter-consul-discovery")
+	implementation("org.springframework.cloud:spring-cloud-loadbalancer")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 }
 
