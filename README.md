@@ -37,7 +37,7 @@ $ open http://localhost:8500
 
 - `Key/Value -> Create`
 - `config/frontend-service/server.port`
-  - backend-service: Application Name
+  - frontend-service: Application Name
   - server.port: Config Key
 
 
